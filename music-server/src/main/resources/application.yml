@@ -1,0 +1,7 @@
+server:
+  port: 8086
+ali:
+  accessKey: LTAI5t7sJ8RrjZa6HLrr1uTd
+  accessKeySecret: IRsPLbMAcRtwq0LP3qHHer33XTH8kV
+  bucketName: lqw675
+  endpoint: http://oss-accelerate.aliyuncs.com

@@ -1,0 +1,8 @@
+2023-03-03 02:11:55 WARN [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h12s162ms).
+2023-03-03 04:12:46 WARN [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h21s96ms).
+2023-03-03 06:08:08 WARN [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h54m51s759ms).
+2023-03-03 08:08:29 WARN [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h21s84ms).
+2023-03-03 09:01:09 WARN [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52m9s594ms).
+2023-03-03 09:09:13 WARN [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m4s9ms).
+2023-03-03 10:50:20 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2023-03-03 10:50:20 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.

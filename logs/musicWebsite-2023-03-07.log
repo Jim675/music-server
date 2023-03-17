@@ -1,0 +1,119 @@
+2023-03-07 21:19:35 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_351 on hardwork.local with PID 12241 (/Users/bigball/Downloads/music-website-master/music-server/target/classes started by bigball in /Users/bigball/Downloads/music-website-master)
+2023-03-07 21:19:35 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-03-07 21:19:35 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-07 21:19:35 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-07 21:19:36 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-03-07 21:19:36 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-03-07 21:19:36 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2023-03-07 21:19:37 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-03-07 21:19:37 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1757 ms
+2023-03-07 21:19:37 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-03-07 21:19:37 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-07 21:19:38 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 2.978 seconds (JVM running for 3.787)
+2023-03-07 21:19:51 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-03-07 21:19:51 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2023-03-07 21:19:51 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-03-07 21:19:51 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-03-07 21:22:17 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2023-03-07 21:22:17 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2023-03-07 21:22:19 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_351 on hardwork.local with PID 12419 (/Users/bigball/Downloads/music-website-master/music-server/target/classes started by bigball in /Users/bigball/Downloads/music-website-master)
+2023-03-07 21:22:19 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-03-07 21:22:19 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-07 21:22:19 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-07 21:22:19 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-03-07 21:22:19 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-03-07 21:22:19 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2023-03-07 21:22:20 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-03-07 21:22:20 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1356 ms
+2023-03-07 21:22:21 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-03-07 21:22:21 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-07 21:22:21 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 2.264 seconds (JVM running for 2.901)
+2023-03-07 21:22:27 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-03-07 21:22:27 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2023-03-07 21:22:27 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-03-07 21:22:27 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-03-07 21:26:44 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 21:26:44 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 21:26:50 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 21:26:50 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 21:27:05 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 21:27:05 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 21:27:11 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 21:27:11 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 21:28:03 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 21:28:03 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 21:28:05 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 21:28:05 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 21:34:25 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 21:34:25 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 21:34:28 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 21:34:28 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 22:00:20 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 22:00:20 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:41:21 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 23:41:21 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:41:24 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 23:41:24 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:41:25 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 23:41:25 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:41:28 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 23:41:28 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:41:42 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 23:41:42 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:41:52 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 23:41:52 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:42:19 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 23:44:43 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 23:44:43 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:48:21 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_351 on hardwork.local with PID 14481 (/Users/bigball/Downloads/music-website-master/music-server/target/classes started by bigball in /Users/bigball/Downloads/music-website-master)
+2023-03-07 23:48:21 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-03-07 23:48:21 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-07 23:48:21 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-07 23:48:21 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-03-07 23:48:21 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-03-07 23:48:21 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2023-03-07 23:48:22 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-03-07 23:48:22 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1741 ms
+2023-03-07 23:48:23 WARN [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: Unable to start LiveReload server
+2023-03-07 23:48:23 WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext]: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8888 is already in use
+2023-03-07 23:48:23 INFO [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener]: 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-03-07 23:48:23 ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter]: 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8888 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8888 or configure this application to listen on another port.
+
+2023-03-07 23:51:11 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2023-03-07 23:51:11 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2023-03-07 23:52:19 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_351 on hardwork.local with PID 14591 (/Users/bigball/Downloads/music-website-master/music-server/target/classes started by bigball in /Users/bigball/Downloads/music-website-master)
+2023-03-07 23:52:19 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2023-03-07 23:52:19 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-07 23:52:19 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-07 23:52:20 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-03-07 23:52:20 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-03-07 23:52:20 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2023-03-07 23:52:21 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2023-03-07 23:52:21 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1355 ms
+2023-03-07 23:52:21 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2023-03-07 23:52:21 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-07 23:52:21 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 2.299 seconds (JVM running for 2.953)
+2023-03-07 23:52:27 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2023-03-07 23:52:27 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2023-03-07 23:52:27 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2023-03-07 23:52:27 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2023-03-07 23:52:30 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'consumerId' for method parameter type Long is present but converted to null]
+2023-03-07 23:52:30 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:54:46 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:55:37 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:56:43 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
+2023-03-07 23:56:52 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'songListId' for method parameter type Integer is present but converted to null]
