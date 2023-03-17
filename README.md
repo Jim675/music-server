@@ -171,21 +171,11 @@ npm run serve // 启动后台管理项目
 
 https://github.com/Yin-Hongwei/music-website/discussions/182
 
-<br/>
-
-## 赞助
-
-如果此项目对你确实有帮助，欢迎给我打赏一杯咖啡～😄
-
-<img src="https://p.ipic.vip/vo0xfy.jpg" height="300px"/>
-
-<br/>
-
 
 
 ## 联系方式
 
-**1、邮箱📮：[yinhongwei96@126.com](mailto:yinhongwei96@126.com)**
+**1、邮箱📮：[2242078957@qq.com](mailto:2242078957@qq.com)**
 
 
 
@@ -193,5 +183,5 @@ https://github.com/Yin-Hongwei/music-website/discussions/182
 
 ## License
 
-Copyright (c) 2018 Yin-Hongwei 
+Copyright (c) 
 
